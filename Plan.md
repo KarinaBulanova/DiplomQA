@@ -1,6 +1,6 @@
 # ПЛАНИРОВАНИЕ АВТОМАТИЗАЦИИ ТЕСТИРОВАНИЯ ВЕБ-СЕРВИСА "ПУТЕШЕСТВИЕ ДНЯ"
 
-![service](C:\Users\project\DiplomQA\pic\service.png)
+![service](https://github.com/KarinaBulanova/DiplomQA/blob/main/pic/service.png)
 
 ## 1. Перечень автоматизируемых сценариев.
 
@@ -8,7 +8,7 @@
 
 Заданный набор карт
 
-![cards](C:\Users\project\DiplomQA\pic\cards.png)
+![cards](https://github.com/KarinaBulanova/DiplomQA/blob/main/pic/cards.png)
 
 Валидация полей:
 
